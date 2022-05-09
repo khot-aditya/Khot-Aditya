@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khot-aditya" alt="khot-aditya" /></a> </p>
-
 - 🔭 I’m currently working on [Web Project](github.com/Khot-Aditya/khoratecashews/dist)
 
 - 🌱 I’m currently learning **Angular, Three.js, Saas**
