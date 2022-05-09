@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Three.js, Saas**
 
-- 👨‍💻 All of my projects are available at [Khot-Aditya.github.io](Khot-Aditya.github.io)
+- 👨‍💻 All of my projects are available at [Khot-Aditya.github.io](https://khot-aditya.github.io/)
 
 - 📫 How to reach me **adityakhot6838@gmail.com**
 
