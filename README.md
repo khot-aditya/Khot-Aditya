@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Web Project](github.com/Khot-Aditya/khoratecashews/dist)
+- 🔭 I’m currently working on [Web Project](https://github.com/Khot-Aditya/khoratecashews/dist)
 
 - 🌱 I’m currently learning **Angular, Three.js, Saas**
 
