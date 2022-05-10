@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Web Project](https://khot-aditya.github.io/khoratecashews/dist)
 
-- 🌱 I’m currently learning **Angular, Three.js, Saas**
+- 🌱 I’m currently learning **Angular, Three.js, Sass**
 
 - 👨‍💻 All of my projects are available at [Khot-Aditya.github.io](https://khot-aditya.github.io/)
 
