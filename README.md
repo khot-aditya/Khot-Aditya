@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at Khot-Aditya.github.io
 
-- 📫 How to reach me **adityakhot6838@gmail.com**
+- 📫 How to reach me adityakhot6838@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
