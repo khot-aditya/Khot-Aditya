@@ -1,47 +1,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap" rel="stylesheet">
-
-<style>
-
-    *{
-        font-family:Tajawal;
-    }
-    span img{
-        width: 60px;
-        height: auto;
-        margin-left:5px;
-        margin-right:5px;
-        margin-top:5px;
-        margin-bottom:5px;
-        border: 2px solid white;
-        border-radius: 10px;
-        padding: 10px;
-        background: white;
-        box-shadow: 1px 1px 10px white;
-    }
-
-    span span img{
-        background: #000;
-        box-shadow: 0px 0px 0px white;
-        border: 2px solid black;
-    }
-
-    span span img:hover{
-        cursor: auto;
-        box-shadow: 0px 0px 0px white;
-    }
-
-    span img:hover{
-        cursor: pointer;
-        box-shadow: 1px 1px 20px white;
-    }
-
-    .flex{
-        display:flex;
-    }
-
-</style>
+<link rel="stylesheet" href="./style.css">
 
 <h1 align="center" class="header">Hi 👋, I'm Aditya</h1>
 <h3 align="center" >A passionate developer from India 😁</h3>
