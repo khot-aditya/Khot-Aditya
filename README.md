@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap" rel="stylesheet">
 
 <h1 align="center" class="header">Hi 👋, I'm Aditya</h1>
-<h3 align="center" >A passionate developer from India 😁</h3>
+<h3 align="center" >A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **NodeJs**
 - 👨‍💻 All of my projects are available at Khot-Aditya.github.io
