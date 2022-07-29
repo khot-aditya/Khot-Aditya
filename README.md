@@ -9,15 +9,6 @@
 - 👨‍💻 All of my projects are available at Khot-Aditya.github.io
 - 📫 How to reach me - adityakhot6838@gmail.com
 
-<h1 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://instagram.com/ad_khot" target="blank">
-<img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="ad_khot" height="30" width="40" />
-            Instagram
-</a>
-</p>
 
 <h1 style="margin-top:50px">Languages and tools</h1>
 <span style="flex">
