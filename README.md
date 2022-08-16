@@ -5,7 +5,7 @@
 <h1 align="center" class="header">Hi 👋, I'm Aditya</h1>
 <h3 align="center" >A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Sagger**
+- 🌱 I’m currently learning **Next Js**
 - 👨‍💻 All of my projects are available at Khot-Aditya.github.io
 - 📫 How to reach me - adityakhot6838@gmail.com
 
