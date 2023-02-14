@@ -65,12 +65,19 @@
 
 </span>
 </span>
-<a href="https://app.daily.dev/adkhot"><img src="https://api.daily.dev/devcards/c595f0d47f954befbffb903499c2f74b.png?r=5i6" width="400" alt="Aditya Khot's Dev Card"/></a>
+
+
+
 <img  src="https://komarev.com/ghpvc/?username=khot-aditya&label=Profile%20views&color=0e75b6&style=flat"
     alt="khot-aditya" />
 <br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khot-aditya&show_icons=true&locale=en&layout=compact"
     alt="" />
+<br>
+
+<a style="width: auto; height: 200px" href="https://app.daily.dev/adkhot"><img src="https://api.daily.dev/devcards/c595f0d47f954befbffb903499c2f74b.png?r=5i6" width="400" alt="Aditya Khot's Dev Card"/></a>
+
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khot-aditya&show_icons=true&locale=en"
