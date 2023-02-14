@@ -45,13 +45,16 @@
 <img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
 <img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
 <!-- to learn next -->
 <span>
-<!-- <img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+
+    
+<!--  <img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-<img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+
 <img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" />
 <img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 <img  width="50" style="margin:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
@@ -62,7 +65,7 @@
 
 </span>
 </span>
-
+<a href="https://app.daily.dev/adkhot"><img src="https://api.daily.dev/devcards/c595f0d47f954befbffb903499c2f74b.png?r=5i6" width="400" alt="Aditya Khot's Dev Card"/></a>
 <img  src="https://komarev.com/ghpvc/?username=khot-aditya&label=Profile%20views&color=0e75b6&style=flat"
     alt="khot-aditya" />
 <br>
