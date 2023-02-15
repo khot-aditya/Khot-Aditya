@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="https://app.daily.dev/adkhot"><img height="400px" width="auto" src="https://api.daily.dev/devcards/c595f0d47f954befbffb903499c2f74b.png?r=5i6" width="400" alt="Aditya Khot's Dev Card"/></a>
+<a href="https://app.daily.dev/adkhot"><img src="https://github.com/khot-aditya/Khot-Aditya/blob/main/devcard.svg" width="400" alt="Aditya Khot's Dev Card"/></a>
 
 <h1 style="margin-top:50px">Languages and tools</h1>
 <span style="flex">
