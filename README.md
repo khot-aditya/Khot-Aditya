@@ -9,6 +9,9 @@
 - 👨‍💻 All of my projects are available at Khot-Aditya.github.io
 - 📫 How to reach me - adityakhot6838@gmail.com
 
+<br/>
+
+<a href="https://app.daily.dev/adkhot"><img height="400px" width="auto" src="https://api.daily.dev/devcards/c595f0d47f954befbffb903499c2f74b.png?r=5i6" width="400" alt="Aditya Khot's Dev Card"/></a>
 
 <h1 style="margin-top:50px">Languages and tools</h1>
 <span style="flex">
@@ -75,8 +78,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khot-aditya&show_icons=true&locale=en&layout=compact"
     alt="" />
 <br>
-
-<a style="width: auto; height: 200px" href="https://app.daily.dev/adkhot"><img src="https://api.daily.dev/devcards/c595f0d47f954befbffb903499c2f74b.png?r=5i6" width="400" alt="Aditya Khot's Dev Card"/></a>
 
 <br>
 
