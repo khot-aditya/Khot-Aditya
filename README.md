@@ -69,19 +69,17 @@
 </span>
 </span>
 
+<br>
 
+<br>
 
 <img  src="https://komarev.com/ghpvc/?username=khot-aditya&label=Profile%20views&color=0e75b6&style=flat"
     alt="khot-aditya" />
-<br>
-
+    
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khot-aditya&show_icons=true&locale=en&layout=compact"
     alt="" />
-<br>
-
-<br>
-
+    
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khot-aditya&show_icons=true&locale=en"
     alt="khot-aditya" />
+    
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khot-aditya&" alt="khot-aditya" />
