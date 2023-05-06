@@ -39,6 +39,8 @@
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intelli_jidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![jirasoftware](https://img.shields.io/badge/jira_software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![gitlab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### 🐬Database
 
@@ -55,7 +57,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🐙Other
+### 🐙Others
 
 ![Android](https://img.shields.io/badge/Android-44A833.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=white)
@@ -68,8 +70,6 @@
 ![yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![gitlab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <div align="center">
 
