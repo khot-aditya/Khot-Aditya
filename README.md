@@ -1,27 +1,18 @@
-
-<br>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/khot-aditya/Khot-Aditya/main/banner.png" width="100%" alt="Banner">
 </p>
-
-
-
-<br>
-<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=F76F0C&center=true&vCenter=true&width=435&lines=I+Am+A+Web+Developer.+%F0%9F%98%8D" alt="Typing SVG">
 </p>
 
-
 <h1 align="left">🚀 About Me</h1>
-<p align="justify">As a seasoned <b>full stack web developer</b> hailing from India, I possess an unwavering passion for creating bespoke digital solutions from scratch, fueled by my insatiable appetite for coding. My current focus is on perfecting the art of <b>React.js</b>, a framework that has captured my heart and ignited my creativity. With over <b>3+ years of programming experience</b> under my belt, I bring a wealth of technical expertise to every project I undertake. Moreover, my innate ability to seamlessly blend design aesthetics with cutting-edge technology, allows me to deliver intricate applications as well as simplistic yet elegant websites. So if you're looking for <b>a proficient developer who takes pride in delivering quality results</b>, look no further.</p>
 
-<br>
+<p align="justify">As a seasoned <b>full stack web developer</b> hailing from India, I possess an unwavering passion for creating bespoke digital solutions from scratch, fueled by my insatiable appetite for coding. My current focus is on perfecting the art of <b>React.js</b>, a framework that has captured my heart and ignited my creativity. With over <b>3+ years of programming experience</b> under my belt, I bring a wealth of technical expertise to every project I undertake. Moreover, my innate ability to seamlessly blend design aesthetics with cutting-edge technology, allows me to deliver intricate applications as well as simplistic yet elegant websites. So if you're looking for <b>a proficient developer who takes pride in delivering quality results</b>, look no further.</p>
 
 <h1 align="left">🧠 Skills Showcase</h1>
 
+### Languages
 
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,32 +20,78 @@
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks
+
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![react](https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![nextdotjs](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Software
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![intellijidea](https://img.shields.io/badge/intelli_jidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![jirasoftware](https://img.shields.io/badge/jira_software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
+
+### Database
+
+![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Libraries
+
+![jss](https://img.shields.io/badge/jss-F7DF1E.svg?style=for-the-badge&logo=jss&logoColor=black)
+![mui](https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
+![p5dotjs](https://img.shields.io/badge/p5.js-ED225D.svg?style=for-the-badge&logo=p5dotjs&logoColor=white)
+![threedotjs](https://img.shields.io/badge/three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Other
+
+![Android](https://img.shields.io/badge/Android-44A833.svg?style=for-the-badge&logo=android&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![fireship](https://img.shields.io/badge/fireship-EB844E.svg?style=for-the-badge&logo=fireship&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![openai](https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Android](https://img.shields.io/badge/Android-44A833.svg?style=for-the-badge&logo=android&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![gitlab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-intellj ide
-typescript
-tailwindcss
-reactjs
-figma
-mysql
-sqlite
-springboot
-firebase
-processing
-nodejs
-yarn
+<div align="center">
 
-<br>
-<br>
-<br>
+![Not a brag, just the truth](https://raw.githubusercontent.com/khot-aditya/Khot-Aditya/main/giphy.webp)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div align="center">
+<table>
+  <tr>
+    <td valign="top"><img src="https://github.com/khot-aditya/Khot-Aditya/blob/main/devcard.svg" alt="Dev Card" width="400px" height="auto"/></td>
+    <td valign="top">
+    <img src="https://github-profile-trophy.vercel.app/?username=khot-aditya&row=2&column=4&theme=oldie&no-frame=true&margin-w=15&margin-h=15"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=khot-aditya&show_icons=true&theme=radical"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+
+
+
