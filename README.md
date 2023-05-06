@@ -84,8 +84,8 @@
   <tr>
     <td valign="top"><img src="https://github.com/khot-aditya/Khot-Aditya/blob/main/devcard.svg" alt="Dev Card" width="400px" height="auto"/></td>
     <td valign="top">
-    <img src="https://github-profile-trophy.vercel.app/?username=khot-aditya&row=3&column=3&theme=oldie&no-frame=true&margin-w=15&margin-h=15"/>
-     <img src="https://github-readme-stats.vercel.app/api?username=khot-aditya&show_icons=true&theme=radical"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=khot-aditya&row=3&column=3&theme=oldie&no-frame=true&margin-w=15&margin-h=15" width="300px"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=khot-aditya&show_icons=true&theme=swift" width="300px"/>
     </td>
   </tr>
 </table>
