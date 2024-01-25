@@ -13,5 +13,4 @@
    <circle id="Ellipse_3" data-name="Ellipse 3" stroke="url(#Lg)" cx="266" cy="278" r="220" fill="none" stroke="#DC143C" stroke-width="45" stroke-dasharray="251,1004" stroke-linecap="round" >
        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0,266,278" to="360,266,278" dur="4s" repeatCount="indefinite"/>  
    </circle>   
-   
 </svg>
