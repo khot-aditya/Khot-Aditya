@@ -1,16 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg5" width="50%"  height="50%" viewBox="0 0 542 542" >
- <defs>
-   <linearGradient id="Lg" x1="0" x2="0" y1="1" y2="0">
-      <stop offset="0" stop-color="#DC143C" />
-        <stop offset="0.8" stop-color="white" stop-opacity="0.05" />
-   </linearGradient>
- </defs>   
-<g id="g820" transform="translate(-658 -238)" fill="none" stroke="#707070" stroke-width="1">    
-   
-    <path id="Path_1" fill="black" stroke="black" d="m818 413 1 1c116 110 0 204 0 205l-1 1c-3 6 3 3 4 3a446 446 0 0 0 210-213c0-2-3-2-3-1-4 5-81 88-207 0h-4v4" data-name="Path 1" />
-    <path id="Path_2" fill="#DC143C" d="M928 569s69 6 99 52c0 0 4 7 5 0a6 6 0 0 0 0-2c-3-8-31-77-55-99 0 0-35 38-49 49" data-name="Path 2" />
-</g> 
-   <circle id="Ellipse_3" data-name="Ellipse 3" stroke="url(#Lg)" cx="266" cy="278" r="220" fill="none" stroke="#DC143C" stroke-width="45" stroke-dasharray="251,1004" stroke-linecap="round" >
-       <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0,266,278" to="360,266,278" dur="4s" repeatCount="indefinite"/>  
-   </circle>   
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+   <defs>
+      <linearGradient id='a' gradientUnits='objectBoundingBox' x1='0' y1='0' x2='1' y2='1'>
+         <stop offset='0' stop-color='red'>
+            <animate attributeName="stop-color"
+               values="red;purple;blue;green;yellow;orange;red;" dur="20s" repeatCount="indefinite">
+            </animate>
+         </stop>
+         <stop offset='.5' stop-color='purple'>
+            <animate attributeName="stop-color"
+               values="purple;blue;green;yellow;orange;red;purple;" dur="20s" repeatCount="indefinite">
+            </animate>
+         </stop>
+         <stop offset='1' stop-color='blue'>
+            <animate attributeName="stop-color"
+               values="blue;green;yellow;orange;red;purple;blue;" dur="20s" repeatCount="indefinite">
+            </animate>
+         </stop>
+         <animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5"
+            dur="20s" repeatCount="indefinite" />
+      </linearGradient>
+      <linearGradient id='b' gradientUnits='objectBoundingBox' x1='0' y1='1' x2='1' y2='1'>
+         <stop offset='0' stop-color='red'>
+            <animate attributeName="stop-color"
+               values="red;purple;blue;green;yellow;orange;red;" dur="20s" repeatCount="indefinite">
+            </animate>
+         </stop>
+         <stop offset='1' stop-color='purple' stop-opacity="0">
+            <animate attributeName="stop-color"
+               values="purple;blue;green;yellow;orange;red;purple;" dur="20s" repeatCount="indefinite">
+            </animate>
+         </stop>
+         <animateTransform attributeName="gradientTransform" type="rotate" values="360 .5 .5;0 .5 .5" class="ignore"
+            dur="10s" repeatCount="indefinite" />
+      </linearGradient>
+   </defs>
+   <rect fill='url(#a)' width='100%' height='100%' />
+   <rect fill='url(#b)' width='100%' height='100%' />
 </svg>
