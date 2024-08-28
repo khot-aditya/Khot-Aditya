@@ -9,6 +9,8 @@
   <a href="https://aditya.coffee" title="Aditya Khot's Personal Website">Personal Website</a>
 </p>
 
+![Github Contributions](/profile-3d-contrib/profile-green-animate.svg "Github Contributions")
+
 <!-- About Me -->
 <!-- Hey there! I'm Aditya, a passionate developer with a love for creating meaningful projects. I'm always exploring new technologies and seeking opportunities to contribute to exciting ventures. -->
 
