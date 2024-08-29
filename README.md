@@ -9,7 +9,14 @@
   <a href="https://aditya.coffee" title="Aditya Khot's Personal Website">Personal Website</a>
 </p>
 
-![Github Contributions](/profile-3d-contrib/profile-green-animate.svg "Github Contributions")
+![Aditya's Github Contributions](/profile-3d-contrib/profile-green-animate.svg "Aditya's Github Contributions")
+
+<br>
+<br>
+
+<p align="center">
+  <img alt="Aditya's Trophy" src="https://github-profile-trophy.vercel.app/?username=khot-aditya&no-frame=true&column=5&margin-w=15&margin-h=15&title=MultiLanguage,Joined2020,Commits,Repositories,Experience"/>
+</p>
 
 <!-- About Me -->
 <!-- Hey there! I'm Aditya, a passionate developer with a love for creating meaningful projects. I'm always exploring new technologies and seeking opportunities to contribute to exciting ventures. -->
