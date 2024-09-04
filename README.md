@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/khot-aditya" title="Aditya Khot on LinkedIn">LinkedIn</a> |
   <a href="https://www.instagram.com/ad_khot/" title="Aditya Khot on Instagram">Instagram</a> |
   <a href="https://github.com/khot-aditya" title="Aditya Khot on GitHub">GitHub</a> |
-  <a href="https://aditya.coffee" title="Aditya Khot's Personal Website">Personal Website</a>
+  <a href="https://aditya.coffee" title="Aditya Khot's Personal Website">Portfolio</a>
 </p>
 
 <br>
