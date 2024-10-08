@@ -1,5 +1,5 @@
 ![Aditya Khot - Full Stack Developer](https://aditya.coffee/github-profile-banner.jpg "Aditya Khot - Full Stack Developer")
-
+ 
 <p align="center"> ✨ <b>CONNECT WITH ME</b> ✨ </p>
 <p align="center">
   <a href="https://twitter.com/khot_aditya6838" title="Aditya Khot on Twitter">Twitter</a> |
